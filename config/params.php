@@ -39,4 +39,5 @@ return [
         ],
         'ssl'            => false,
     ],
+    'localhosts' => ['127.0.0.1','localhost'],
 ];
